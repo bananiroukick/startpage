@@ -31,7 +31,7 @@ const CONFIG = new Config({
   tabs: [
     {
       name: 'boards',
-      background_url: 'src/img/banners/bg-1.gif',
+      background_url: 'https://i.pinimg.com/originals/0b/c0/30/0bc030803dc18816b398e611d09ceaa6.gif',
       categories: [{
         name: 'fun',
         links: [
