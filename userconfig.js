@@ -106,7 +106,7 @@ const CONFIG = new Config({
     },
     {
       name: 'music',
-      background_url: 'src/img/banners/bg-2.gif',
+      background_url: 'https://i.pinimg.com/originals/b5/43/44/b5434468a9f8a1fac71b1cf8d5502320.gif',
       categories: [
         {
           name: 'music services',
@@ -145,7 +145,7 @@ const CONFIG = new Config({
     },
     {
       name: 'tech',
-      background_url: 'src/img/banners/bg-3.gif',
+      background_url: 'https://i.pinimg.com/originals/e1/78/73/e17873381a302d3fabd5ce3d330eccdf.gif',
       categories: [
         {
           name: 'subreddits',
